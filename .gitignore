@@ -1,0 +1,47 @@
+# Visual Studio
+.vs/
+.vscode/
+
+# Build results
+bin/
+obj/
+
+# NuGet Packages
+packages/
+project.nuget.cache
+*.nuget.*
+
+# Visual Studio temp files
+*.suo
+*.user
+*.vcxproj.user
+
+# Rider
+.idea/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Debugging/Profiling
+*.pdb
+*.cache
+*.pidb
+*.ilk
+*.aps
+*.ncb
+*.sdf
+*.opendb
+
+# Resharper
+_ReSharper*/
+
+# User-specific settings
+*.userprefs
+
+# JetBrains Rider
+.idea/
+*.sln.iml
